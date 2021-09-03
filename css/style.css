@@ -62,3 +62,9 @@ header {
     padding-bottom:10px ;
 
 }
+
+footer {
+    height: 20px;
+    background-color: #E579E6;
+    margin-top: 2px;
+}
