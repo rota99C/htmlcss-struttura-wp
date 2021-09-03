@@ -1,2 +1,40 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    height: 150px;
+    background-color: #E579E6;
+    margin-bottom: 1rem;
+}
+
+.slideshow{
+    height: 350px;
+    background-color: #E1D67A;
+    margin-bottom: 1rem;
+}
+
+.debug {
+    padding: 1rem;
+}
+
+.top-content {
+    height: 50px;
+    background-color: #ABCFE7;
+}
+
+.colonne {
+    width: 20%;
+    background-color: ;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+    background-color: 0086FF;
 
 
+    
